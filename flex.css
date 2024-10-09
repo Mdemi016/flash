@@ -1,0 +1,80 @@
+.div{
+    height: 50px;
+}
+
+.top{
+    display: grid;
+    height: 100px;
+    grid-template-columns: 1fr 2fr;
+    gap: 10px;
+}
+.middle{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 10px;
+}
+.bottom{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+}
+.red{
+    background-color: red;
+    height: 100px;
+}
+.blue{
+    background-color: blue;
+    height: 100px;
+}
+.green{
+    background-color: green;
+    height: 100px;
+}
+.yellow{
+    background-color: yellow;
+    height: 100px;
+}
+.orange{
+    background-color: orange;
+    height: 100px;
+}
+.black{
+    background-color: black;
+    height: 100px;
+}
+.purple{
+    background-color: purple;
+    height: 100px;
+}
+.brown{
+    background-color: brown;
+    height: 100px;
+}
+.pink{
+    background-color: pink;
+    height: 100px;
+}
+.gray{
+    background-color: gray;
+    height: 100px;
+}
+section{
+    display: grid;
+    gap: 10px;
+}
+@media screen and (max-width: 500px){
+    div{
+      background-color: black;
+      display: noon;
+    }
+    .top, .bottom{
+        display: grid;
+    }
+  }
+  @media screen and (max-width: 800px){
+    div{
+      background-color: yellow;
+      display: flex;
+    }
+  }
+

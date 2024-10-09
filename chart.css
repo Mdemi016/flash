@@ -1,0 +1,54 @@
+.measure{
+    background-color: red;
+    width: 80%;
+    height: 50px;
+}
+.prog-1{
+    display:inline-block;
+    background-color: yellow;
+    width: 75%;
+    height: 50px;
+}
+.num-2{
+    background-color: red;
+    width: 80%;
+    height: 50px;
+}
+.prog-2{
+    display: inline-block;
+    background-color: yellow;
+    width: 50%;
+    height: 50px;
+}
+.num-3{
+    background-color: red;
+    width: 80%;
+}
+.prog-3{
+    display: inline-block;
+    background-color: yellow;
+    width: 25%;
+    height: 50px;
+}
+.num-4{
+    background-color: red;
+    width: 80%;
+    height: 50px;
+}
+.prog-4{
+    display: inline-block;
+    background-color: yellow;
+    width: 98%;
+    height: 50px;
+}
+.num-5{
+    background-color: red;
+    width: 80%;
+    height: 50px;
+}
+.prog-5{
+    display: inline-block;
+    background-color: yellow;
+    width: 60%;
+    height: 50px;
+}
